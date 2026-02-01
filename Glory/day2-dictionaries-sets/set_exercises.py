@@ -4,12 +4,12 @@ z = x.union(y)
 
 print(z)
 
-# the update() method inserts all items from one set into another. 
+# the update() method inserts all items from one set into another.
 # it changes the original set, and does not return a new set
 set_1 = {"a", "b", "c"}
 set_2 = {1, 2, 3}
 
-set_1.update(set_2)
+set_1.update(map(str, set_2))
 print(set_1)
 
 # the intersection() keeps only duplicates (items presents in both sets)
