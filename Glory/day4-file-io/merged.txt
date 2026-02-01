@@ -1,0 +1,10 @@
+==== lorem.txt ====
+Lorem ipsum dollar set ...
+hello Python!
+==== python.txt ====
+Python is easy to learn
+Yay!
+==== example.txt ====
+FileNotFoundError
+No such file 
+or directory
