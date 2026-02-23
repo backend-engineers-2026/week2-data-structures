@@ -4,7 +4,7 @@ contact = []  # stores the contacts as a list of dictionaries.
 
 # - Add contact (name, phone)
 def add_contact(name, phone):
-    # Use list of dictionaries: [{"name": "John", "phone": "123"}]
+    # Use list of dictionaries: [{"name": "John", "phone": "124"}]
     contact.append({"name": name, "phone": phone})
 
 

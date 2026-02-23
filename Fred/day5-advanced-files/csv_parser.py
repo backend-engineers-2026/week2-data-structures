@@ -1,6 +1,6 @@
 # Create students.txt
 with open("students.txt", "w") as f:
-    f.write("name,grade,age\nAlice,85,20\nBob,92,21\nCharlie,78,22\nDiana,95,23")
+    f.write("name,grade,age\nAlice,85,20\nBob,92,21\nCharlie,78,22\nDiana,95,24")
 
 # Read and parse
 with open("students.txt", "r") as f:
